@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dli-scrapping-lib"
-version = "1.0.2"
+version = "1.0.3"
 description = "Open Source Library of all the scrapping python utilities I have used over the years"
 authors = ["dli <davidli012345@gmail.com>"]
 license = "MIT"
