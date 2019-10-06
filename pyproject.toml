@@ -5,7 +5,7 @@ description = "Open Source Library of all the scrapping python utilities I have 
 authors = ["dli <davidli012345@gmail.com>"]
 license = "MIT"
 readme = "README.rst"
-repository = "https://github.com/FriendlyUser/dash-stats"
+repository = "https://github.com/FriendlyUser/dli-scrapping-lib"
 keywords = ["web", "scrapping"]
 
 [tool.poetry.dependencies]
